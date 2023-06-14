@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.base{
+    height: 550px;
+    width: 550px;
+    background: teal;
+    margin: 100px auto;
+    position: relative;
+}
+.l1{
+    height: 550px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 0px;
+    left: 50px;
+}
+.l2{
+    height: 550px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 0px;
+    left: 150px;
+}
+.l3{
+    height: 550px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 0px;
+    left: 250px;
+}
+.l4{
+    height: 550px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 0px;
+    left: 350px;
+}
+.l5{
+    height: 550px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 0px;
+    left: 450px;
+}
+.r1{
+    height: 50px;
+    width: 550px;
+    background: #3AF41A;
+    position: absolute;
+    top: 50px;
+    left: 0px;
+}
+.r2{
+    height: 50px;
+    width: 550px;
+    background: #3AF41A;
+    position: absolute;
+    top: 150px;
+    left: 0px;
+}
+.r3{
+    height: 50px;
+    width: 550px;
+    background: #3AF41A;
+    position: absolute;
+    top: 250px;
+    left: 0px;
+}
+.r4{
+    height: 50px;
+    width: 550px;
+    background: #3AF41A;
+    position: absolute;
+    top: 350px;
+    left: 0px;
+}
+.r5{
+    height: 50px;
+    width: 550px;
+    background: #3AF41A;
+    position: absolute;
+    top: 450px;
+    left: 0px;
+}
+.one{
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 50px;
+    left: 0px;  
+    z-index: 1;
+}
+.tow{
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 250px;
+    left: 0px;  
+    z-index: 2;
+}
+.three{
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 450px;
+    left: 0px;  
+    z-index: 3;
+}
+.a1{
+
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 150px;
+    left: 0px;  
+    z-index: 3;
+}
+.a2{
+
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 350px;
+    left: 0px;  
+    z-index: 3;
+}
+.b1{
+
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 150px;
+    left: 0px;  
+    z-index: 3;
+}
+.b2{
+
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 350px;
+    left: 0px;  
+    z-index: 3;
+}
+.aone{
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 50px;
+    left: 0px;  
+    z-index: 1;
+}
+.atow{
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 250px;
+    left: 0px;  
+    z-index: 2;
+}
+.athree{
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 450px;
+    left: 0px;  
+    z-index: 3;
+}
+.sone{
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 50px;
+    left: 0px;  
+    z-index: 1;
+}
+.stow{
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 250px;
+    left: 0px;  
+    z-index: 2;
+}
+.sthree{
+    height: 50px;
+    width: 50px;
+    background: yellow;
+    position: absolute;
+    top: 450px;
+    left: 0px;  
+    z-index: 3;
+}
